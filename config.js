@@ -25,11 +25,11 @@ const CONFIG = {
             text: "Ako lang baby mo?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! 💙"           // Secret hover message
+            secretAnswer: "DAPAT AKO LANG AH, HMPPFFFF! 💙"           // Secret hover message
         },
         second: {
             text: "Gaano mo ako ka-love?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "Sobra?",                                   // Text before the percentage
             nextBtn: "Next 💙"                                         // Text for the next button
         },
         third: {
