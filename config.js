@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Ako lang baby mo?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "DAPAT AKO LANG AH, HMPPFFFF! 💙"           // Secret hover message
+            secretAnswer: "DAPAT AKO LANG AH, HMPPFFFF!💙"           // Secret hover message
         },
         second: {
             text: "Gaano mo ako ka-love?",                          // For the love meter
